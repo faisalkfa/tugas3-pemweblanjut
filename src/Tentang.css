@@ -1,0 +1,34 @@
+.tentang-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .profil {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .foto-pembuat {
+    width: 150px; 
+    height: 150px;
+    border-radius: 50%; 
+    object-fit: cover;
+    margin-right: 20px;
+  }
+  
+  .informasi-pembuat {
+    text-align: left;
+  }
+  
+  .informasi-pembuat h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  /* Styling deskripsi pembuat */
+  .informasi-pembuat p {
+    font-size: 1rem;
+  }
+  
